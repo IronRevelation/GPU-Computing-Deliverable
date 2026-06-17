@@ -1,4 +1,4 @@
-# GPU SpMV Deliverable
+# GPU SpMV Deliverable by Mattia Ferretti
 
 ## Implementations
 
